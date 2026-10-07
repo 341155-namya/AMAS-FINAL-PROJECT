@@ -1,0 +1,429 @@
+claim_id,employee,grade,submitted_on,expense_date,description,merchant,category,amount,payment_mode,receipt,gst_invoice,city,auditor_outcome
+H001,Employee 1,L1,2026-09-30,2026-09-04,Breakfast at hotel cafe,Cafe,Auto,240.0,UPI,True,True,Other,Paid in full
+H001,Employee 1,L1,2026-09-30,2026-09-17,Cab to client office,Uber,Auto,620.0,Company card,True,True,Other,Paid in full
+H001,Employee 1,L1,2026-09-30,2026-08-16,Excel course,Udemy,Auto,3220.0,Card,True,False,Other,Paid in full
+H001,Employee 1,L1,2026-09-30,2026-08-01,Hotel 1 night near plant,OYO,Auto,2720.0,UPI,True,True,Other,Paid after cut
+H001,Employee 1,L1,2026-09-30,2026-07-27,Phone recharge,Jio,Auto,360.0,UPI,True,True,Other,Refused
+H002,Employee 2,L1,2026-09-30,2026-09-05,Breakfast at hotel cafe,Cafe,Auto,430.0,UPI,True,True,Other,Paid in full
+H002,Employee 2,L1,2026-09-30,2026-09-26,Client dinner,Restaurant,Auto,3720.0,Card,True,True,Other,Paid in full
+H002,Employee 2,L1,2026-09-30,2026-09-17,Misc purchase,Croma,Auto,2390.0,UPI,False,False,Other,Refused
+H002,Employee 2,L1,2026-09-30,2026-09-17,Lunch with team,Zomato,Auto,470.0,Cash,True,True,Other,Paid in full
+H002,Employee 2,L1,2026-09-30,2026-09-20,Breakfast at hotel cafe,Cafe,Auto,300.0,Card,True,True,Other,Paid in full
+H003,Employee 3,L2,2026-09-30,2026-09-24,Printer toner,Stationery Mart,Auto,2330.0,Card,True,True,Metro,Paid after cut
+H003,Employee 3,L2,2026-09-30,2026-09-17,Train ticket,IRCTC,Auto,1810.0,UPI,True,False,Metro,Paid in full
+H003,Employee 3,L2,2026-09-30,2026-09-03,Parking at mall,Parking,Auto,80.0,Cash,True,False,Metro,Paid in full
+H003,Employee 3,L2,2026-09-30,2026-09-02,Parking at mall,Parking,Auto,130.0,Cash,True,False,Metro,Paid in full
+H003,Employee 3,L2,2026-09-30,2026-09-28,Parking at mall,Parking,Auto,110.0,Cash,True,True,Metro,Paid in full
+H004,Employee 4,L1,2026-09-30,2026-07-12,Train ticket,IRCTC,Auto,1340.0,Card,True,False,Metro,Paid in full
+H004,Employee 4,L1,2026-09-30,2026-07-29,Lunch with team,Zomato,Auto,330.0,Card,True,False,Metro,Paid in full
+H004,Employee 4,L1,2026-09-30,2026-08-02,Client dinner,Restaurant,Auto,2590.0,Company card,True,True,Metro,Paid in full
+H005,Employee 5,L1,2026-09-30,2026-08-22,Train ticket,IRCTC,Auto,500.0,Card,True,True,Other,Paid in full
+H005,Employee 5,L1,2026-09-30,2026-09-05,Breakfast at hotel cafe,Cafe,Auto,190.0,UPI,True,False,Other,Paid in full
+H006,Employee 6,L2,2026-09-30,2026-09-25,Lunch with team,Zomato,Auto,640.0,Cash,True,True,Other,Paid in full
+H006,Employee 6,L2,2026-09-30,2026-08-24,Book on negotiation,Book store,Auto,660.0,UPI,True,True,Other,Paid in full
+H006,Employee 6,L2,2026-09-30,2026-08-19,Client dinner,Restaurant,Auto,2950.0,UPI,True,True,Other,Paid in full
+H006,Employee 6,L2,2026-09-30,2026-09-17,Lunch with team,Zomato,Auto,1120.0,Company card,False,True,Other,Refused
+H006,Employee 6,L2,2026-09-30,2026-09-10,Cab to client office,Uber,Auto,390.0,Company card,True,True,Other,Paid in full
+H007,Employee 7,L1,2026-09-30,2026-09-09,Auto to warehouse,Auto rickshaw,Auto,260.0,Card,True,True,Metro,Paid in full
+H007,Employee 7,L1,2026-09-30,2026-08-22,Auto to warehouse,Auto rickshaw,Auto,120.0,Card,True,True,Metro,Paid in full
+H007,Employee 7,L1,2026-09-30,2026-06-22,Ola to airport,Ola,Auto,990.0,Company card,True,True,Metro,Refused
+H007,Employee 7,L1,2026-09-30,2026-09-15,Breakfast at hotel cafe,Cafe,Auto,320.0,UPI,True,True,Metro,Refused
+H008,Employee 8,L2,2026-09-30,2026-09-02,Lunch with team,Zomato,Auto,350.0,Cash,True,False,Metro,Paid in full
+H008,Employee 8,L2,2026-09-30,2026-09-07,Hotel 1 night near plant,OYO,Auto,2290.0,UPI,True,False,Metro,Paid in full
+H008,Employee 8,L2,2026-09-30,2026-08-28,Hotel stay 1 night,Treebo,Auto,3200.0,UPI,True,True,Metro,Paid in full
+H008,Employee 8,L2,2026-09-30,2026-08-12,Parking at mall,Parking,Auto,190.0,Card,True,False,Metro,Paid in full
+H008,Employee 8,L2,2026-09-30,2026-09-03,Hotel stay 1 night,Treebo,Auto,4880.0,Cash,True,False,Metro,Refused
+H009,Employee 9,L1,2026-09-30,2026-09-26,Train ticket,IRCTC,Auto,1200.0,Cash,True,True,Other,Paid in full
+H009,Employee 9,L1,2026-09-30,2026-07-27,Printer toner,Stationery Mart,Auto,1580.0,Cash,True,True,Other,Paid in full
+H009,Employee 9,L1,2026-09-30,2026-09-16,Dinner on tour,Restaurant,Auto,490.0,UPI,True,True,Other,Paid in full
+H009,Employee 9,L1,2026-09-30,2026-09-29,Breakfast at hotel cafe (incl. beer),Cafe,Auto,500.0,UPI,True,False,Other,Refused
+H010,Employee 10,L1,2026-09-30,2026-09-07,Book on negotiation,Book store,Auto,950.0,Company card,True,True,Metro,Paid in full
+H010,Employee 10,L1,2026-09-30,2026-09-02,Excel course,Udemy,Auto,2350.0,Cash,True,True,Metro,Refused
+H011,Employee 11,L2,2026-09-30,2026-09-25,Broadband bill,Airtel,Auto,1220.0,UPI,True,False,Metro,Paid after cut
+H011,Employee 11,L2,2026-09-30,2026-09-09,Hotel stay 1 night,Treebo,Auto,3100.0,UPI,True,True,Metro,Paid in full
+H011,Employee 11,L2,2026-09-30,2026-08-04,Flight to Bengaluru,Akasa,Auto,9780.0,UPI,True,False,Metro,Paid in full
+H012,Employee 12,L1,2026-09-30,2026-09-20,Auto to warehouse,Auto rickshaw,Auto,260.0,Card,True,True,Metro,Refused
+H012,Employee 12,L1,2026-09-30,2026-09-13,Parking at mall,Parking,Auto,110.0,Card,True,True,Metro,Paid in full
+H012,Employee 12,L1,2026-09-30,2026-07-06,Parking at mall,Parking,Auto,110.0,UPI,True,False,Metro,Paid in full
+H013,Employee 13,L1,2026-09-30,2026-09-19,Train ticket,IRCTC,Auto,1410.0,Card,True,False,Other,Paid in full
+H013,Employee 13,L1,2026-09-30,2026-08-19,Ola to airport,Ola,Auto,1290.0,Card,True,True,Other,Paid after cut
+H013,Employee 13,L1,2026-09-30,2026-09-09,Hotel stay 1 night,Treebo,Auto,6880.0,Cash,True,True,Other,Refused
+H013,Employee 13,L1,2026-09-30,2026-09-17,Lunch with team,Zomato,Auto,810.0,Company card,False,True,Other,Paid after cut
+H013,Employee 13,L1,2026-09-30,2026-08-14,Train ticket,IRCTC,Auto,860.0,UPI,True,True,Other,Paid in full
+H014,Employee 14,L1,2026-09-30,2026-09-08,Train ticket,IRCTC,Auto,1510.0,UPI,False,False,Metro,Paid in full
+H014,Employee 14,L1,2026-09-30,2026-09-14,Hotel stay 1 night,Treebo,Auto,4360.0,UPI,True,False,Metro,Paid after cut
+H015,Employee 15,L1,2026-09-30,2026-08-25,Auto to warehouse,Auto rickshaw,Auto,210.0,Cash,True,False,Other,Paid in full
+H015,Employee 15,L1,2026-09-30,2026-08-23,Ola to airport,Ola,Auto,570.0,Company card,True,True,Other,Paid in full
+H015,Employee 15,L1,2026-09-30,2026-08-23,Stationery for branch,Stationery Mart,Auto,390.0,UPI,True,True,Other,Paid in full
+H015,Employee 15,L1,2026-09-30,2026-09-26,Book on negotiation,Book store,Auto,780.0,Card,True,False,Other,Paid in full
+H016,Employee 16,L2,2026-09-30,2026-08-02,Broadband bill,Airtel,Auto,940.0,UPI,True,False,Metro,Paid in full
+H016,Employee 16,L2,2026-09-30,2026-07-19,Hotel stay 1 night,Treebo,Auto,5480.0,Card,True,False,Metro,Refused
+H016,Employee 16,L2,2026-09-30,2026-09-16,Train ticket,IRCTC,Auto,900.0,UPI,True,False,Metro,Paid in full
+H016,Employee 16,L2,2026-09-30,2026-09-18,Auto to warehouse,Auto rickshaw,Auto,220.0,Card,True,True,Metro,Paid in full
+H017,Employee 17,L2,2026-09-30,2026-09-04,Breakfast at hotel cafe,Cafe,Auto,270.0,Card,True,True,Metro,Paid in full
+H017,Employee 17,L2,2026-09-30,2026-09-18,Broadband bill,Airtel,Auto,900.0,Card,True,True,Metro,Paid in full
+H017,Employee 17,L2,2026-09-30,2026-09-05,Stationery for branch,Stationery Mart,Auto,590.0,Card,True,True,Metro,Paid in full
+H018,Employee 18,L1,2026-09-30,2026-08-27,Breakfast at hotel cafe,Cafe,Auto,300.0,Cash,True,False,Metro,Paid in full
+H018,Employee 18,L1,2026-09-30,2026-09-20,Client dinner,Restaurant,Auto,5710.0,Card,True,True,Metro,Paid in full
+H018,Employee 18,L1,2026-09-30,2026-08-12,Printer toner,Stationery Mart,Auto,1330.0,UPI,True,True,Metro,Paid in full
+H019,Employee 19,L1,2026-09-30,2026-09-22,Book on negotiation,Book store,Auto,1030.0,Cash,True,False,Metro,Paid in full
+H019,Employee 19,L1,2026-09-30,2026-09-27,Ola to airport,Ola,Auto,1210.0,UPI,True,False,Metro,Paid after cut
+H019,Employee 19,L1,2026-09-30,2026-09-22,Parking at mall,Parking,Auto,80.0,UPI,True,False,Metro,Paid in full
+H019,Employee 19,L1,2026-09-30,2026-08-05,Lunch with team,Zomato,Auto,770.0,UPI,True,False,Metro,Refused
+H019,Employee 19,L1,2026-09-30,2026-09-01,Book on negotiation,Book store,Auto,1050.0,Card,True,True,Metro,Paid in full
+H020,Employee 20,L1,2026-09-30,2026-09-19,Gift hamper,Archies,Auto,2180.0,Cash,True,True,Other,Paid in full
+H020,Employee 20,L1,2026-09-30,2026-08-01,Auto to warehouse,Auto rickshaw,Auto,250.0,Card,True,False,Other,Paid in full
+H020,Employee 20,L1,2026-09-30,2026-09-23,Lunch with team,Zomato,Auto,440.0,Card,True,True,Other,Paid in full
+H021,Employee 21,L1,2026-09-30,2026-08-20,Book on negotiation,Book store,Auto,1100.0,Cash,True,True,Metro,Paid in full
+H021,Employee 21,L1,2026-09-30,2026-08-14,Parking at mall,Parking,Auto,200.0,Cash,True,False,Metro,Paid in full
+H021,Employee 21,L1,2026-09-30,2026-09-22,Book on negotiation,Book store,Auto,710.0,UPI,True,True,Metro,Paid in full
+H021,Employee 21,L1,2026-09-30,2026-09-10,Excel course,Udemy,Auto,2730.0,Company card,True,False,Metro,Paid in full
+H021,Employee 21,L1,2026-09-30,2026-09-21,Printer toner,Stationery Mart,Auto,760.0,Card,False,True,Metro,Refused
+H022,Employee 22,L1,2026-09-30,2026-09-15,Cab to client office,Uber,Auto,750.0,UPI,True,True,Metro,Paid in full
+H022,Employee 22,L1,2026-09-30,2026-09-15,Lunch with team,Zomato,Auto,830.0,UPI,True,True,Metro,Paid in full
+H022,Employee 22,L1,2026-09-30,2026-08-03,Misc purchase,Croma,Auto,3440.0,UPI,True,False,Metro,Paid in full
+H022,Employee 22,L1,2026-09-30,2026-07-07,Excel course,Udemy,Auto,3660.0,Cash,True,True,Metro,Paid in full
+H022,Employee 22,L1,2026-09-30,2026-09-06,Auto to warehouse,Auto rickshaw,Auto,120.0,Card,True,False,Metro,Paid in full
+H023,Employee 23,L1,2026-09-30,2026-09-07,Train ticket,IRCTC,Auto,1790.0,Card,True,True,Metro,Paid in full
+H023,Employee 23,L1,2026-09-30,2026-07-10,Cab to client office,Uber,Auto,500.0,Card,True,False,Metro,Refused
+H023,Employee 23,L1,2026-09-30,2026-08-31,Phone recharge,Jio,Auto,590.0,Card,False,False,Metro,Refused
+H024,Employee 24,L2,2026-09-30,2026-09-15,Dinner on tour,Restaurant,Auto,760.0,Company card,True,False,Metro,Paid in full
+H024,Employee 24,L2,2026-09-30,2026-09-18,Ola to airport,Ola,Auto,990.0,UPI,False,False,Metro,Refused
+H024,Employee 24,L2,2026-09-30,2026-08-10,Flight to Delhi,IndiGo,Auto,9670.0,Card,True,True,Metro,Paid in full
+H024,Employee 24,L2,2026-09-30,2026-07-03,Ola to airport,Ola,Auto,740.0,Cash,True,True,Metro,Refused
+H025,Employee 25,L1,2026-09-30,2026-09-29,Train ticket,IRCTC,Auto,2350.0,Company card,True,True,Other,Paid in full
+H025,Employee 25,L1,2026-09-30,2026-09-04,Cab to client office,Uber,Auto,480.0,Card,True,True,Other,Paid in full
+H025,Employee 25,L1,2026-09-30,2026-09-16,Train ticket,IRCTC,Auto,650.0,Card,True,True,Other,Paid in full
+H025,Employee 25,L1,2026-09-30,2026-08-10,Breakfast at hotel cafe,Cafe,Auto,570.0,UPI,True,True,Other,Paid in full
+H026,Employee 26,L2,2026-09-30,2026-08-04,Phone recharge,Jio,Auto,830.0,UPI,False,True,Other,Refused
+H026,Employee 26,L2,2026-09-30,2026-09-19,Hotel 1 night near plant,OYO,Auto,4210.0,UPI,True,True,Other,Refused
+H026,Employee 26,L2,2026-09-30,2026-09-02,Printer toner,Stationery Mart,Auto,1090.0,UPI,True,True,Other,Paid in full
+H026,Employee 26,L2,2026-09-30,2026-07-27,Dinner on tour,Restaurant,Auto,1290.0,Cash,True,True,Other,Refused
+H026,Employee 26,L2,2026-09-30,2026-09-06,Hotel stay 1 night,Treebo,Auto,3220.0,Card,True,False,Other,Refused
+H027,Employee 27,L1,2026-09-30,2026-08-16,Broadband bill,Airtel,Auto,830.0,UPI,True,True,Metro,Paid in full
+H027,Employee 27,L1,2026-09-30,2026-08-26,Ola to airport,Ola,Auto,780.0,Cash,True,True,Metro,Paid in full
+H027,Employee 27,L1,2026-09-30,2026-09-29,Dinner on tour,Restaurant,Auto,1650.0,UPI,True,True,Metro,Paid after cut
+H028,Employee 28,L2,2026-09-30,2026-09-05,Excel course,Udemy,Auto,1670.0,UPI,True,True,Metro,Refused
+H028,Employee 28,L2,2026-09-30,2026-09-20,Auto to warehouse,Auto rickshaw,Auto,190.0,Cash,True,True,Metro,Paid in full
+H028,Employee 28,L2,2026-09-30,2026-09-24,Ola to airport,Ola,Auto,1310.0,UPI,False,True,Metro,Refused
+H028,Employee 28,L2,2026-09-30,2026-09-11,Hotel stay 1 night,Treebo,Auto,2040.0,UPI,True,False,Metro,Paid in full
+H029,Employee 29,L1,2026-09-30,2026-07-02,Auto to warehouse,Auto rickshaw,Auto,300.0,UPI,True,False,Other,Refused
+H029,Employee 29,L1,2026-09-30,2026-09-09,Cab to client office,Uber,Auto,590.0,UPI,True,False,Other,Paid in full
+H030,Employee 30,L3,2026-09-30,2026-09-16,Train ticket,IRCTC,Auto,550.0,Card,True,True,Other,Paid in full
+H030,Employee 30,L3,2026-09-30,2026-09-23,Hotel 1 night near plant,OYO,Auto,2280.0,UPI,True,True,Other,Paid in full
+H030,Employee 30,L3,2026-09-30,2026-09-06,Hotel 1 night near plant,OYO,Auto,3010.0,Card,True,False,Other,Paid in full
+H031,Employee 31,L1,2026-09-30,2026-08-14,Ola to airport,Ola,Auto,1240.0,Card,True,True,Metro,Paid after cut
+H031,Employee 31,L1,2026-09-30,2026-09-03,Dinner on tour,Restaurant,Auto,1340.0,UPI,True,False,Metro,Paid after cut
+H031,Employee 31,L1,2026-09-30,2026-08-26,Parking at mall,Parking,Auto,160.0,Cash,True,True,Metro,Paid in full
+H031,Employee 31,L1,2026-09-30,2026-09-17,Breakfast at hotel cafe,Cafe,Auto,210.0,Cash,True,False,Metro,Paid in full
+H031,Employee 31,L1,2026-09-30,2026-09-26,Flight to Delhi,IndiGo,Auto,6960.0,UPI,True,False,Metro,Paid in full
+H032,Employee 32,L1,2026-09-30,2026-06-24,Train ticket,IRCTC,Auto,1920.0,Cash,False,True,Metro,Refused
+H032,Employee 32,L1,2026-09-30,2026-08-23,Lunch with team,Zomato,Auto,480.0,Card,True,True,Metro,Paid in full
+H032,Employee 32,L1,2026-09-30,2026-08-10,Volvo bus ticket,redBus,Auto,970.0,UPI,True,False,Metro,Paid in full
+H032,Employee 32,L1,2026-09-30,2026-09-13,Dinner on tour,Restaurant,Auto,1230.0,Card,True,True,Metro,Paid after cut
+H032,Employee 32,L1,2026-09-30,2026-09-22,Ola to airport,Ola,Auto,620.0,UPI,True,False,Metro,Paid in full
+H033,Employee 33,L2,2026-09-30,2026-09-28,Breakfast at hotel cafe,Cafe,Auto,260.0,UPI,True,True,Other,Paid in full
+H033,Employee 33,L2,2026-09-30,2026-08-22,Hotel stay 1 night,Treebo,Auto,4840.0,UPI,True,True,Other,Paid after cut
+H034,Employee 34,L1,2026-09-30,2026-09-10,Ola to airport,Ola,Auto,830.0,Card,True,False,Metro,Paid in full
+H034,Employee 34,L1,2026-09-30,2026-09-27,Gift hamper,Archies,Auto,2120.0,UPI,True,True,Metro,Refused
+H034,Employee 34,L1,2026-09-30,2026-09-16,Stationery for branch,Stationery Mart,Auto,320.0,Cash,True,True,Metro,Paid in full
+H034,Employee 34,L1,2026-09-30,2026-08-24,Flight to Delhi,IndiGo,Auto,5590.0,Card,True,False,Metro,Paid in full
+H035,Employee 35,L2,2026-09-30,2026-09-29,Flight to Bengaluru,Akasa,Auto,12250.0,Cash,True,True,Metro,Refused
+H035,Employee 35,L2,2026-09-30,2026-09-19,Stationery for branch,Stationery Mart,Auto,810.0,UPI,True,True,Metro,Refused
+H035,Employee 35,L2,2026-09-30,2026-07-10,Printer toner,Stationery Mart,Auto,1880.0,Card,False,False,Metro,Refused
+H035,Employee 35,L2,2026-09-30,2026-08-22,Volvo bus ticket,redBus,Auto,1140.0,UPI,False,True,Metro,Refused
+H036,Employee 36,L1,2026-09-30,2026-09-23,Lunch with team,Zomato,Auto,410.0,Card,True,False,Metro,Paid in full
+H036,Employee 36,L1,2026-09-30,2026-09-14,Misc purchase,Croma,Auto,1580.0,Cash,True,False,Metro,Paid in full
+H036,Employee 36,L1,2026-09-30,2026-09-19,Lunch with team,Zomato,Auto,1180.0,Cash,True,True,Metro,Paid after cut
+H036,Employee 36,L1,2026-09-30,2026-09-20,Volvo bus ticket,redBus,Auto,1370.0,Card,True,True,Metro,Paid in full
+H036,Employee 36,L1,2026-09-30,2026-07-27,Lunch with team,Zomato,Auto,1210.0,Cash,True,False,Metro,Refused
+H037,Employee 37,L2,2026-09-30,2026-09-28,Volvo bus ticket,redBus,Auto,1440.0,Card,True,False,Metro,Paid in full
+H037,Employee 37,L2,2026-09-30,2026-08-03,Breakfast at hotel cafe,Cafe,Auto,300.0,Card,True,True,Metro,Refused
+H037,Employee 37,L2,2026-09-30,2026-09-25,Flight to Bengaluru,Akasa,Auto,13520.0,Card,False,True,Metro,Refused
+H038,Employee 38,L2,2026-09-30,2026-07-07,Flight to Bengaluru,Akasa,Auto,6650.0,UPI,True,True,Metro,Paid in full
+H038,Employee 38,L2,2026-09-30,2026-09-12,Ola to airport,Ola,Auto,820.0,Company card,True,True,Metro,Paid in full
+H038,Employee 38,L2,2026-09-30,2026-09-03,Parking at mall,Parking,Auto,170.0,UPI,True,True,Metro,Refused
+H038,Employee 38,L2,2026-09-30,2026-09-04,Train ticket,IRCTC,Auto,1500.0,Card,True,False,Metro,Paid in full
+H039,Employee 39,L1,2026-09-30,2026-09-17,Train ticket,IRCTC,Auto,900.0,UPI,True,True,Metro,Paid in full
+H039,Employee 39,L1,2026-09-30,2026-09-29,Ola to airport,Ola,Auto,1100.0,UPI,True,True,Metro,Paid after cut
+H039,Employee 39,L1,2026-09-30,2026-09-28,Breakfast at hotel cafe,Cafe,Auto,330.0,UPI,True,True,Metro,Paid in full
+H039,Employee 39,L1,2026-09-30,2026-09-15,Lunch with team (incl. beer),Zomato,Auto,1290.0,UPI,True,True,Metro,Paid after cut
+H040,Employee 40,L2,2026-09-30,2026-08-19,Hotel stay 1 night,Treebo,Auto,6880.0,UPI,False,True,Metro,Refused
+H040,Employee 40,L2,2026-09-30,2026-07-25,Breakfast at hotel cafe,Cafe,Auto,520.0,Company card,True,False,Metro,Refused
+H041,Employee 41,L1,2026-09-30,2026-09-08,Breakfast at hotel cafe,Cafe,Auto,320.0,UPI,True,True,Metro,Paid in full
+H041,Employee 41,L1,2026-09-30,2026-09-23,Flight to Delhi,IndiGo,Auto,6650.0,Card,True,True,Metro,Refused
+H041,Employee 41,L1,2026-09-30,2026-09-24,Auto to warehouse,Auto rickshaw,Auto,160.0,UPI,True,True,Metro,Paid in full
+H042,Employee 42,L3,2026-09-30,2026-06-24,Book on negotiation,Book store,Auto,360.0,Cash,True,True,Metro,Refused
+H042,Employee 42,L3,2026-09-30,2026-09-03,Breakfast at hotel cafe,Cafe,Auto,550.0,UPI,True,True,Metro,Paid in full
+H043,Employee 43,L1,2026-09-30,2026-08-19,Client dinner,Restaurant,Auto,3490.0,Card,True,True,Other,Paid in full
+H043,Employee 43,L1,2026-09-30,2026-09-15,Stationery for branch,Stationery Mart,Auto,770.0,Card,True,False,Other,Paid in full
+H043,Employee 43,L1,2026-09-30,2026-09-11,Hotel 1 night near plant,OYO,Auto,2840.0,Card,True,True,Other,Paid after cut
+H043,Employee 43,L1,2026-09-30,2026-08-18,Train ticket,IRCTC,Auto,1920.0,Cash,True,True,Other,Paid in full
+H043,Employee 43,L1,2026-09-30,2026-09-04,Printer toner,Stationery Mart,Auto,2260.0,UPI,True,True,Other,Paid after cut
+H044,Employee 44,L1,2026-09-30,2026-09-09,Excel course,Udemy,Auto,2210.0,Company card,True,True,Metro,Paid in full
+H044,Employee 44,L1,2026-09-30,2026-08-02,Hotel stay 1 night,Treebo,Auto,6240.0,UPI,True,True,Metro,Paid after cut
+H045,Employee 45,L2,2026-09-30,2026-09-02,Breakfast at hotel cafe,Cafe,Auto,320.0,UPI,True,False,Metro,Paid in full
+H045,Employee 45,L2,2026-09-30,2026-09-06,Hotel 1 night near plant,OYO,Auto,4130.0,UPI,True,True,Metro,Paid in full
+H046,Employee 46,L1,2026-09-30,2026-09-24,Flight to Delhi,IndiGo,Auto,11660.0,UPI,False,False,Other,Refused
+H046,Employee 46,L1,2026-09-30,2026-08-08,Lunch with team,Zomato,Auto,260.0,UPI,True,True,Other,Paid in full
+H046,Employee 46,L1,2026-09-30,2026-09-03,Ola to airport,Ola,Auto,880.0,UPI,True,True,Other,Paid in full
+H047,Employee 47,L1,2026-09-30,2026-09-27,Ola to airport,Ola,Auto,1360.0,UPI,True,True,Metro,Paid after cut
+H047,Employee 47,L1,2026-09-30,2026-09-20,Volvo bus ticket,redBus,Auto,900.0,Card,True,False,Metro,Paid in full
+H047,Employee 47,L1,2026-09-30,2026-09-01,Ola to airport,Ola,Auto,620.0,UPI,True,False,Metro,Paid in full
+H047,Employee 47,L1,2026-09-30,2026-09-23,Cab to client office,Uber,Auto,520.0,Card,True,False,Metro,Paid in full
+H048,Employee 48,L2,2026-09-30,2026-09-13,Hotel 1 night near plant,OYO,Auto,2010.0,Cash,False,False,Other,Refused
+H048,Employee 48,L2,2026-09-30,2026-09-07,Lunch with team,Zomato,Auto,930.0,UPI,True,True,Other,Paid in full
+H048,Employee 48,L2,2026-09-30,2026-09-03,Misc purchase,Croma,Auto,2740.0,UPI,True,False,Other,Paid in full
+H049,Employee 49,L2,2026-09-30,2026-08-30,Broadband bill,Airtel,Auto,900.0,Cash,True,True,Metro,Refused
+H049,Employee 49,L2,2026-09-30,2026-09-26,Hotel stay 1 night,Treebo,Auto,6270.0,UPI,True,True,Metro,Paid after cut
+H049,Employee 49,L2,2026-09-30,2026-09-22,Dinner on tour,Restaurant,Auto,1470.0,Card,True,True,Metro,Paid in full
+H049,Employee 49,L2,2026-09-30,2026-07-22,Cab to client office,Uber,Auto,770.0,UPI,True,False,Metro,Refused
+H049,Employee 49,L2,2026-09-30,2026-08-26,Gift hamper,Archies,Auto,2540.0,UPI,True,True,Metro,Paid in full
+H050,Employee 50,L1,2026-09-30,2026-09-21,Dinner on tour,Restaurant,Auto,420.0,Cash,True,True,Other,Paid in full
+H050,Employee 50,L1,2026-09-30,2026-09-13,Misc purchase,Croma,Auto,3060.0,Card,True,True,Other,Paid in full
+H051,Employee 51,L1,2026-09-30,2026-09-03,Lunch with team,Zomato,Auto,300.0,UPI,True,False,Metro,Paid in full
+H051,Employee 51,L1,2026-09-30,2026-09-18,Flight to Bengaluru,Akasa,Auto,3910.0,Card,True,True,Metro,Paid in full
+H051,Employee 51,L1,2026-09-30,2026-08-11,Ola to airport,Ola,Auto,1360.0,Company card,True,True,Metro,Paid after cut
+H051,Employee 51,L1,2026-09-30,2026-09-27,Ola to airport,Ola,Auto,550.0,Cash,True,True,Metro,Paid in full
+H051,Employee 51,L1,2026-09-30,2026-09-22,Cab to client office,Uber,Auto,260.0,Company card,True,False,Metro,Paid in full
+H052,Employee 52,L1,2026-09-30,2026-08-31,Lunch with team,Zomato,Auto,830.0,UPI,True,False,Metro,Paid in full
+H052,Employee 52,L1,2026-09-30,2026-08-31,Hotel 1 night near plant,OYO,Auto,3540.0,Card,True,False,Metro,Paid in full
+H053,Employee 53,L2,2026-09-30,2026-08-19,Excel course,Udemy,Auto,3420.0,UPI,True,False,Metro,Paid in full
+H053,Employee 53,L2,2026-09-30,2026-08-13,Auto to warehouse,Auto rickshaw,Auto,100.0,Cash,True,True,Metro,Refused
+H053,Employee 53,L2,2026-09-30,2026-09-23,Parking at mall,Parking,Auto,190.0,UPI,True,False,Metro,Paid in full
+H053,Employee 53,L2,2026-09-30,2026-09-19,Auto to warehouse,Auto rickshaw,Auto,250.0,UPI,True,True,Metro,Paid in full
+H054,Employee 54,L1,2026-09-30,2026-09-07,Breakfast at hotel cafe,Cafe,Auto,220.0,Card,True,True,Other,Paid in full
+H054,Employee 54,L1,2026-09-30,2026-09-27,Lunch with team,Zomato,Auto,520.0,UPI,True,True,Other,Paid in full
+H054,Employee 54,L1,2026-09-30,2026-08-23,Gift hamper,Archies,Auto,1410.0,UPI,True,True,Other,Refused
+H054,Employee 54,L1,2026-09-30,2026-09-19,Flight to Delhi,IndiGo,Auto,9520.0,UPI,True,True,Other,Paid in full
+H054,Employee 54,L1,2026-09-30,2026-09-06,Auto to warehouse,Auto rickshaw,Auto,270.0,Card,True,False,Other,Refused
+H055,Employee 55,L2,2026-09-30,2026-09-03,Client dinner,Restaurant,Auto,6260.0,UPI,True,False,Metro,Paid after cut
+H055,Employee 55,L2,2026-09-30,2026-09-14,Breakfast at hotel cafe,Cafe,Auto,210.0,Cash,True,True,Metro,Paid in full
+H056,Employee 56,L2,2026-09-30,2026-08-08,Train ticket,IRCTC,Auto,1480.0,UPI,False,True,Other,Refused
+H056,Employee 56,L2,2026-09-30,2026-08-19,Printer toner,Stationery Mart,Auto,1560.0,Card,True,True,Other,Paid in full
+H056,Employee 56,L2,2026-09-30,2026-08-31,Cab to client office,Uber,Auto,600.0,Cash,False,True,Other,Refused
+H057,Employee 57,L1,2026-09-30,2026-07-22,Client dinner,Restaurant,Auto,2990.0,Cash,True,True,Metro,Refused
+H057,Employee 57,L1,2026-09-30,2026-09-07,Auto to warehouse,Auto rickshaw,Auto,100.0,Card,True,True,Metro,Paid in full
+H058,Employee 58,L1,2026-09-30,2026-09-20,Hotel stay 1 night,Treebo,Auto,2740.0,UPI,True,False,Metro,Paid in full
+H058,Employee 58,L1,2026-09-30,2026-08-11,Parking at mall,Parking,Auto,190.0,Card,True,False,Metro,Paid in full
+H059,Employee 59,L1,2026-09-30,2026-07-12,Misc purchase,Croma,Auto,990.0,UPI,True,False,Other,Refused
+H059,Employee 59,L1,2026-09-30,2026-07-18,Hotel stay 1 night,Treebo,Auto,2000.0,UPI,True,True,Other,Paid in full
+H059,Employee 59,L1,2026-09-30,2026-08-19,Auto to warehouse,Auto rickshaw,Auto,140.0,UPI,True,False,Other,Paid in full
+H060,Employee 60,L1,2026-09-30,2026-09-04,Parking at mall,Parking,Auto,120.0,Card,True,True,Metro,Paid in full
+H060,Employee 60,L1,2026-09-30,2026-09-22,Train ticket,IRCTC,Auto,710.0,UPI,True,True,Metro,Paid in full
+H060,Employee 60,L1,2026-09-30,2026-06-26,Auto to warehouse,Auto rickshaw,Auto,180.0,UPI,True,False,Metro,Refused
+H061,Employee 61,L1,2026-09-30,2026-07-07,Printer toner,Stationery Mart,Auto,1280.0,Cash,True,False,Metro,Refused
+H061,Employee 61,L1,2026-09-30,2026-07-04,Client dinner,Restaurant,Auto,5490.0,UPI,True,False,Metro,Paid in full
+H061,Employee 61,L1,2026-09-30,2026-07-11,Client dinner,Restaurant,Auto,2970.0,UPI,True,False,Metro,Refused
+H061,Employee 61,L1,2026-09-30,2026-09-06,Phone recharge,Jio,Auto,520.0,Cash,True,False,Metro,Paid in full
+H061,Employee 61,L1,2026-09-30,2026-09-26,Ola to airport,Ola,Auto,660.0,UPI,True,True,Metro,Paid in full
+H062,Employee 62,L2,2026-09-30,2026-09-19,Client dinner,Restaurant,Auto,3120.0,Cash,True,True,Metro,Paid in full
+H062,Employee 62,L2,2026-09-30,2026-07-01,Gift hamper,Archies,Auto,1610.0,Company card,True,True,Metro,Paid in full
+H063,Employee 63,L1,2026-09-30,2026-09-04,Misc purchase,Croma,Auto,1490.0,UPI,True,True,Other,Refused
+H063,Employee 63,L1,2026-09-30,2026-09-12,Ola to airport,Ola,Auto,1260.0,UPI,True,True,Other,Paid after cut
+H063,Employee 63,L1,2026-09-30,2026-07-10,Volvo bus ticket,redBus,Auto,1050.0,Card,True,False,Other,Refused
+H064,Employee 64,L1,2026-09-30,2026-08-18,Phone recharge,Jio,Auto,440.0,Card,True,False,Other,Paid in full
+H064,Employee 64,L1,2026-09-30,2026-09-14,Parking at mall,Parking,Auto,130.0,Card,True,True,Other,Paid in full
+H064,Employee 64,L1,2026-09-30,2026-09-19,Hotel 1 night near plant,OYO,Auto,1670.0,UPI,True,True,Other,Paid in full
+H064,Employee 64,L1,2026-09-30,2026-09-03,Lunch with team,Zomato,Auto,500.0,Card,True,True,Other,Paid in full
+H065,Employee 65,L3,2026-09-30,2026-07-10,Ola to airport,Ola,Auto,1260.0,Card,True,True,Metro,Refused
+H065,Employee 65,L3,2026-09-30,2026-08-07,Flight to Delhi,IndiGo,Auto,10850.0,UPI,True,True,Metro,Refused
+H065,Employee 65,L3,2026-09-30,2026-08-20,Lunch with team,Zomato,Auto,1250.0,Cash,False,False,Metro,Refused
+H065,Employee 65,L3,2026-09-30,2026-09-20,Auto to warehouse,Auto rickshaw,Auto,100.0,Card,True,False,Metro,Paid in full
+H065,Employee 65,L3,2026-09-30,2026-08-29,Misc purchase,Croma,Auto,3870.0,Company card,True,True,Metro,Paid in full
+H066,Employee 66,L2,2026-09-30,2026-08-25,Dinner on tour,Restaurant,Auto,360.0,Card,True,False,Metro,Paid in full
+H066,Employee 66,L2,2026-09-30,2026-09-21,Flight to Bengaluru,Akasa,Auto,7450.0,Company card,True,True,Metro,Paid in full
+H066,Employee 66,L2,2026-09-30,2026-07-12,Cab to client office,Uber,Auto,400.0,UPI,True,True,Metro,Refused
+H067,Employee 67,L1,2026-09-30,2026-09-06,Excel course,Udemy,Auto,2160.0,UPI,True,True,Metro,Paid in full
+H067,Employee 67,L1,2026-09-30,2026-09-02,Dinner on tour,Restaurant,Auto,740.0,UPI,True,False,Metro,Paid in full
+H068,Employee 68,L1,2026-09-30,2026-09-16,Phone recharge,Jio,Auto,650.0,Cash,True,True,Other,Paid in full
+H068,Employee 68,L1,2026-09-30,2026-08-10,Gift hamper,Archies,Auto,1100.0,UPI,True,True,Other,Paid in full
+H068,Employee 68,L1,2026-09-30,2026-09-29,Client dinner,Restaurant,Auto,5850.0,UPI,True,True,Other,Paid in full
+H068,Employee 68,L1,2026-09-30,2026-09-22,Phone recharge,Jio,Auto,790.0,Card,True,True,Other,Paid in full
+H068,Employee 68,L1,2026-09-30,2026-09-17,Dinner on tour,Restaurant,Auto,410.0,UPI,True,False,Other,Paid in full
+H069,Employee 69,L2,2026-09-30,2026-09-02,Lunch with team,Zomato,Auto,480.0,Cash,True,True,Other,Paid in full
+H069,Employee 69,L2,2026-09-30,2026-09-15,Cab to client office,Uber,Auto,700.0,UPI,True,True,Other,Paid in full
+H070,Employee 70,L2,2026-09-30,2026-06-29,Phone recharge,Jio,Auto,700.0,UPI,True,False,Metro,Refused
+H070,Employee 70,L2,2026-09-30,2026-09-10,Breakfast at hotel cafe,Cafe,Auto,420.0,UPI,True,False,Metro,Paid in full
+H070,Employee 70,L2,2026-09-30,2026-09-17,Hotel 1 night near plant,OYO,Auto,3190.0,UPI,True,False,Metro,Paid in full
+H070,Employee 70,L2,2026-09-30,2026-09-16,Lunch with team,Zomato,Auto,1030.0,Company card,True,True,Metro,Paid in full
+H070,Employee 70,L2,2026-09-30,2026-09-11,Flight to Bengaluru,Akasa,Auto,12830.0,UPI,True,True,Metro,Paid in full
+H071,Employee 71,L2,2026-09-30,2026-07-21,Breakfast at hotel cafe,Cafe,Auto,300.0,Card,True,True,Other,Refused
+H071,Employee 71,L2,2026-09-30,2026-09-26,Client dinner,Restaurant,Auto,6730.0,Cash,True,False,Other,Refused
+H072,Employee 72,L2,2026-09-30,2026-09-18,Breakfast at hotel cafe,Cafe,Auto,230.0,UPI,True,True,Metro,Paid in full
+H072,Employee 72,L2,2026-09-30,2026-09-17,Ola to airport,Ola,Auto,860.0,Card,True,True,Metro,Paid in full
+H073,Employee 73,L2,2026-09-30,2026-08-30,Dinner on tour,Restaurant,Auto,390.0,Card,True,False,Metro,Paid in full
+H073,Employee 73,L2,2026-09-30,2026-09-07,Lunch with team,Zomato,Auto,1140.0,Card,True,False,Metro,Paid in full
+H073,Employee 73,L2,2026-09-30,2026-08-26,Auto to warehouse,Auto rickshaw,Auto,210.0,UPI,True,True,Metro,Paid in full
+H074,Employee 74,L2,2026-09-30,2026-09-01,Volvo bus ticket,redBus,Auto,660.0,Card,True,False,Metro,Refused
+H074,Employee 74,L2,2026-09-30,2026-08-12,Broadband bill,Airtel,Auto,670.0,Card,True,False,Metro,Paid in full
+H074,Employee 74,L2,2026-09-30,2026-09-12,Breakfast at hotel cafe,Cafe,Auto,430.0,UPI,True,True,Metro,Paid in full
+H074,Employee 74,L2,2026-09-30,2026-09-22,Breakfast at hotel cafe,Cafe,Auto,160.0,UPI,True,True,Metro,Paid in full
+H075,Employee 75,L2,2026-09-30,2026-09-13,Cab to client office,Uber,Auto,530.0,Cash,True,True,Metro,Paid in full
+H075,Employee 75,L2,2026-09-30,2026-09-17,Broadband bill,Airtel,Auto,890.0,Card,False,False,Metro,Paid in full
+H075,Employee 75,L2,2026-09-30,2026-09-20,Stationery for branch,Stationery Mart,Auto,230.0,Card,True,True,Metro,Paid in full
+H076,Employee 76,L3,2026-09-30,2026-08-13,Flight to Bengaluru,Akasa,Auto,4630.0,Cash,True,True,Other,Paid in full
+H076,Employee 76,L3,2026-09-30,2026-09-13,Dinner on tour,Restaurant,Auto,1120.0,UPI,False,True,Other,Refused
+H076,Employee 76,L3,2026-09-30,2026-09-07,Auto to warehouse,Auto rickshaw,Auto,260.0,Cash,True,True,Other,Paid in full
+H076,Employee 76,L3,2026-09-30,2026-08-28,Hotel stay 1 night,Treebo,Auto,5200.0,Card,False,False,Other,Refused
+H076,Employee 76,L3,2026-09-30,2026-09-06,Printer toner,Stationery Mart,Auto,620.0,UPI,True,False,Other,Paid in full
+H077,Employee 77,L3,2026-09-30,2026-08-19,Auto to warehouse,Auto rickshaw,Auto,250.0,Company card,True,False,Metro,Paid in full
+H077,Employee 77,L3,2026-09-30,2026-07-15,Phone recharge,Jio,Auto,690.0,UPI,True,True,Metro,Refused
+H077,Employee 77,L3,2026-09-30,2026-09-03,Flight to Bengaluru,Akasa,Auto,8290.0,UPI,True,True,Metro,Paid in full
+H077,Employee 77,L3,2026-09-30,2026-09-08,Volvo bus ticket,redBus,Auto,1500.0,UPI,False,False,Metro,Refused
+H078,Employee 78,L2,2026-09-30,2026-09-28,Client dinner,Restaurant,Auto,5450.0,UPI,True,True,Other,Paid after cut
+H078,Employee 78,L2,2026-09-30,2026-09-11,Volvo bus ticket,redBus,Auto,870.0,Card,True,True,Other,Paid in full
+H078,Employee 78,L2,2026-09-30,2026-08-28,Auto to warehouse,Auto rickshaw,Auto,190.0,UPI,True,True,Other,Paid in full
+H078,Employee 78,L2,2026-09-30,2026-09-05,Stationery for branch,Stationery Mart,Auto,1170.0,UPI,True,False,Other,Paid in full
+H078,Employee 78,L2,2026-09-30,2026-09-27,Breakfast at hotel cafe,Cafe,Auto,320.0,Cash,True,False,Other,Paid in full
+H079,Employee 79,L1,2026-09-30,2026-09-09,Dinner on tour,Restaurant,Auto,600.0,Company card,True,True,Metro,Paid in full
+H079,Employee 79,L1,2026-09-30,2026-07-29,Broadband bill,Airtel,Auto,870.0,Company card,False,True,Metro,Paid in full
+H079,Employee 79,L1,2026-09-30,2026-09-20,Stationery for branch,Stationery Mart,Auto,580.0,Cash,False,True,Metro,Refused
+H080,Employee 80,L1,2026-09-30,2026-08-31,Lunch with team,Zomato,Auto,980.0,UPI,True,True,Metro,Paid in full
+H080,Employee 80,L1,2026-09-30,2026-09-18,Parking at mall,Parking,Auto,180.0,Cash,True,False,Metro,Paid in full
+H080,Employee 80,L1,2026-09-30,2026-09-09,Lunch with team,Zomato,Auto,1130.0,Card,True,False,Metro,Paid after cut
+H080,Employee 80,L1,2026-09-30,2026-09-10,Ola to airport,Ola,Auto,690.0,Cash,True,True,Metro,Paid in full
+H081,Employee 81,L2,2026-09-30,2026-09-26,Ola to airport,Ola,Auto,1160.0,Card,True,True,Other,Paid in full
+H081,Employee 81,L2,2026-09-30,2026-08-07,Lunch with team,Zomato,Auto,1090.0,UPI,True,True,Other,Paid in full
+H081,Employee 81,L2,2026-09-30,2026-09-12,Breakfast at hotel cafe,Cafe,Auto,500.0,Cash,True,True,Other,Paid in full
+H081,Employee 81,L2,2026-09-30,2026-09-16,Train ticket,IRCTC,Auto,1810.0,Card,True,False,Other,Paid in full
+H082,Employee 82,L3,2026-09-30,2026-07-08,Flight to Bengaluru,Akasa,Auto,12050.0,Card,True,True,Metro,Paid in full
+H082,Employee 82,L3,2026-09-30,2026-09-18,Train ticket,IRCTC,Auto,650.0,UPI,True,False,Metro,Paid in full
+H082,Employee 82,L3,2026-09-30,2026-09-11,Phone recharge,Jio,Auto,630.0,UPI,True,False,Metro,Paid in full
+H082,Employee 82,L3,2026-09-30,2026-09-02,Hotel stay 1 night,Treebo,Auto,4430.0,Card,True,True,Metro,Paid in full
+H082,Employee 82,L3,2026-09-30,2026-09-04,Train ticket,IRCTC,Auto,2480.0,UPI,True,False,Metro,Paid in full
+H083,Employee 83,L3,2026-09-30,2026-09-28,Excel course,Udemy,Auto,4000.0,Cash,True,True,Other,Paid in full
+H083,Employee 83,L3,2026-09-30,2026-09-15,Auto to warehouse,Auto rickshaw,Auto,250.0,Cash,True,False,Other,Paid in full
+H083,Employee 83,L3,2026-09-30,2026-09-25,Auto to warehouse,Auto rickshaw,Auto,190.0,Card,True,True,Other,Refused
+H083,Employee 83,L3,2026-09-30,2026-07-13,Ola to airport,Ola,Auto,900.0,UPI,True,True,Other,Refused
+H083,Employee 83,L3,2026-09-30,2026-08-01,Ola to airport,Ola,Auto,920.0,UPI,True,True,Other,Paid in full
+H084,Employee 84,L2,2026-09-30,2026-07-05,Client dinner,Restaurant,Auto,6330.0,UPI,True,True,Metro,Refused
+H084,Employee 84,L2,2026-09-30,2026-08-14,Hotel 1 night near plant,OYO,Auto,2250.0,UPI,True,False,Metro,Paid in full
+H084,Employee 84,L2,2026-09-30,2026-09-26,Excel course,Udemy,Auto,2120.0,UPI,True,True,Metro,Paid in full
+H084,Employee 84,L2,2026-09-30,2026-09-10,Cab to client office,Uber,Auto,320.0,Card,True,False,Metro,Paid in full
+H084,Employee 84,L2,2026-09-30,2026-08-19,Phone recharge,Jio,Auto,540.0,UPI,True,True,Metro,Paid in full
+H085,Employee 85,L2,2026-09-30,2026-09-17,Breakfast at hotel cafe,Cafe,Auto,170.0,Cash,True,True,Metro,Paid in full
+H085,Employee 85,L2,2026-09-30,2026-09-09,Lunch with team,Zomato,Auto,980.0,Card,True,True,Metro,Paid in full
+H085,Employee 85,L2,2026-09-30,2026-08-31,Flight to Delhi,IndiGo,Auto,12000.0,UPI,True,False,Metro,Paid in full
+H085,Employee 85,L2,2026-09-30,2026-09-27,Hotel stay 1 night,Treebo,Auto,2660.0,Card,True,True,Metro,Paid in full
+H086,Employee 86,L1,2026-09-30,2026-09-25,Breakfast at hotel cafe,Cafe,Auto,410.0,Card,True,True,Metro,Paid in full
+H086,Employee 86,L1,2026-09-30,2026-07-13,Volvo bus ticket,redBus,Auto,1590.0,Card,True,False,Metro,Refused
+H086,Employee 86,L1,2026-09-30,2026-08-17,Flight to Delhi,IndiGo,Auto,9190.0,Card,True,False,Metro,Paid in full
+H087,Employee 87,L2,2026-09-30,2026-09-25,Book on negotiation,Book store,Auto,400.0,Company card,True,True,Other,Paid in full
+H087,Employee 87,L2,2026-09-30,2026-07-26,Stationery for branch,Stationery Mart,Auto,200.0,UPI,True,False,Other,Paid in full
+H088,Employee 88,L2,2026-09-30,2026-09-15,Breakfast at hotel cafe,Cafe,Auto,240.0,Card,True,True,Metro,Paid in full
+H088,Employee 88,L2,2026-09-30,2026-09-23,Volvo bus ticket,redBus,Auto,400.0,Card,True,True,Metro,Paid in full
+H088,Employee 88,L2,2026-09-30,2026-09-23,Flight to Bengaluru,Akasa,Auto,15220.0,Cash,True,True,Metro,Paid in full
+H088,Employee 88,L2,2026-09-30,2026-08-10,Stationery for branch,Stationery Mart,Auto,320.0,Card,True,True,Metro,Paid in full
+H088,Employee 88,L2,2026-09-30,2026-07-11,Dinner on tour,Restaurant,Auto,1060.0,UPI,True,True,Metro,Paid in full
+H089,Employee 89,L2,2026-09-30,2026-09-22,Printer toner,Stationery Mart,Auto,760.0,Card,True,True,Metro,Paid in full
+H089,Employee 89,L2,2026-09-30,2026-09-15,Cab to client office,Uber,Auto,440.0,Cash,True,True,Metro,Paid in full
+H089,Employee 89,L2,2026-09-30,2026-09-06,Dinner on tour,Restaurant,Auto,1450.0,UPI,True,False,Metro,Paid in full
+H090,Employee 90,L1,2026-09-30,2026-09-19,Misc purchase,Croma,Auto,1270.0,UPI,True,False,Metro,Paid in full
+H090,Employee 90,L1,2026-09-30,2026-09-13,Parking at mall,Parking,Auto,180.0,Company card,True,True,Metro,Paid in full
+H090,Employee 90,L1,2026-09-30,2026-09-22,Parking at mall,Parking,Auto,50.0,UPI,True,True,Metro,Paid in full
+H090,Employee 90,L1,2026-09-30,2026-08-31,Breakfast at hotel cafe (incl. beer),Cafe,Auto,280.0,Card,True,True,Metro,Refused
+H091,Employee 91,L1,2026-09-30,2026-09-22,Ola to airport,Ola,Auto,640.0,UPI,True,True,Metro,Paid in full
+H091,Employee 91,L1,2026-09-30,2026-09-04,Parking at mall,Parking,Auto,60.0,UPI,True,True,Metro,Paid in full
+H092,Employee 92,L3,2026-09-30,2026-09-01,Flight to Bengaluru,Akasa,Auto,15480.0,Cash,True,False,Other,Paid in full
+H092,Employee 92,L3,2026-09-30,2026-07-31,Hotel stay 1 night,Treebo,Auto,5300.0,Card,True,False,Other,Paid in full
+H092,Employee 92,L3,2026-09-30,2026-09-16,Hotel 1 night near plant,OYO,Auto,3960.0,Cash,True,True,Other,Paid in full
+H093,Employee 93,L2,2026-09-30,2026-09-14,Train ticket,IRCTC,Auto,370.0,UPI,True,True,Other,Paid in full
+H093,Employee 93,L2,2026-09-30,2026-09-08,Printer toner,Stationery Mart,Auto,1150.0,Card,True,True,Other,Paid in full
+H094,Employee 94,L1,2026-09-30,2026-08-15,Flight to Delhi,IndiGo,Auto,8600.0,UPI,True,True,Other,Paid in full
+H094,Employee 94,L1,2026-09-30,2026-08-23,Client dinner,Restaurant,Auto,6610.0,UPI,True,False,Other,Paid in full
+H094,Employee 94,L1,2026-09-30,2026-08-06,Gift hamper,Archies,Auto,730.0,Card,True,False,Other,Paid in full
+H095,Employee 95,L1,2026-09-30,2026-08-08,Cab to client office,Uber,Auto,870.0,Card,True,False,Metro,Paid in full
+H095,Employee 95,L1,2026-09-30,2026-09-28,Printer toner,Stationery Mart,Auto,690.0,Card,True,True,Metro,Paid in full
+H095,Employee 95,L1,2026-09-30,2026-08-28,Dinner on tour,Restaurant,Auto,850.0,Card,True,True,Metro,Paid in full
+H096,Employee 96,L1,2026-09-30,2026-09-03,Parking at mall,Parking,Auto,190.0,Card,True,False,Metro,Paid in full
+H096,Employee 96,L1,2026-09-30,2026-08-11,Flight to Delhi,IndiGo,Auto,10700.0,UPI,True,True,Metro,Paid in full
+H096,Employee 96,L1,2026-09-30,2026-09-12,Flight to Delhi,IndiGo,Auto,12490.0,Company card,False,False,Metro,Refused
+H097,Employee 97,L1,2026-09-30,2026-09-29,Book on negotiation,Book store,Auto,630.0,Card,True,False,Metro,Paid in full
+H097,Employee 97,L1,2026-09-30,2026-09-09,Gift hamper,Archies,Auto,2740.0,UPI,True,True,Metro,Paid in full
+H097,Employee 97,L1,2026-09-30,2026-09-06,Cab to client office,Uber,Auto,600.0,UPI,True,False,Metro,Paid in full
+H098,Employee 98,L2,2026-09-30,2026-09-01,Breakfast at hotel cafe,Cafe,Auto,290.0,Card,True,False,Metro,Paid in full
+H098,Employee 98,L2,2026-09-30,2026-09-20,Dinner on tour,Restaurant,Auto,820.0,UPI,True,True,Metro,Paid in full
+H098,Employee 98,L2,2026-09-30,2026-09-26,Auto to warehouse,Auto rickshaw,Auto,260.0,Cash,True,True,Metro,Paid in full
+H099,Employee 99,L3,2026-09-30,2026-09-23,Broadband bill,Airtel,Auto,780.0,Company card,False,True,Metro,Refused
+H099,Employee 99,L3,2026-09-30,2026-09-18,Ola to airport,Ola,Auto,1310.0,UPI,False,True,Metro,Refused
+H100,Employee 100,L1,2026-09-30,2026-09-14,Parking at mall,Parking,Auto,180.0,Card,True,False,Metro,Paid in full
+H100,Employee 100,L1,2026-09-30,2026-09-24,Flight to Delhi,IndiGo,Auto,7280.0,Card,True,True,Metro,Paid in full
+H100,Employee 100,L1,2026-09-30,2026-08-19,Dinner on tour,Restaurant,Auto,1330.0,UPI,True,False,Metro,Paid after cut
+H101,Employee 101,L3,2026-09-30,2026-09-07,Auto to warehouse,Auto rickshaw,Auto,280.0,UPI,True,True,Other,Paid in full
+H101,Employee 101,L3,2026-09-30,2026-09-24,Auto to warehouse,Auto rickshaw,Auto,270.0,Cash,True,True,Other,Paid in full
+H101,Employee 101,L3,2026-09-30,2026-09-29,Stationery for branch,Stationery Mart,Auto,330.0,UPI,True,True,Other,Paid in full
+H101,Employee 101,L3,2026-09-30,2026-06-29,Breakfast at hotel cafe,Cafe,Auto,240.0,Cash,True,True,Other,Refused
+H101,Employee 101,L3,2026-09-30,2026-09-23,Ola to airport,Ola,Auto,1270.0,Cash,True,True,Other,Paid in full
+H102,Employee 102,L1,2026-09-30,2026-09-12,Train ticket,IRCTC,Auto,510.0,Card,True,True,Metro,Paid in full
+H102,Employee 102,L1,2026-09-30,2026-09-12,Volvo bus ticket,redBus,Auto,400.0,UPI,True,True,Metro,Paid in full
+H102,Employee 102,L1,2026-09-30,2026-06-26,Misc purchase,Croma,Auto,2670.0,UPI,True,True,Metro,Refused
+H102,Employee 102,L1,2026-09-30,2026-09-12,Train ticket,IRCTC,Auto,510.0,Card,True,True,Metro,Refused
+H103,Employee 103,L2,2026-09-30,2026-09-06,Misc purchase,Croma,Auto,1270.0,UPI,True,False,Metro,Paid in full
+H103,Employee 103,L2,2026-09-30,2026-09-09,Volvo bus ticket,redBus,Auto,900.0,UPI,False,False,Metro,Refused
+H103,Employee 103,L2,2026-09-30,2026-09-17,Volvo bus ticket,redBus,Auto,940.0,Card,True,True,Metro,Paid in full
+H103,Employee 103,L2,2026-09-30,2026-09-04,Client dinner,Restaurant,Auto,7800.0,UPI,True,True,Metro,Paid after cut
+H103,Employee 103,L2,2026-09-30,2026-08-21,Ola to airport,Ola,Auto,890.0,UPI,True,True,Metro,Paid in full
+H104,Employee 104,L3,2026-09-30,2026-09-27,Hotel stay 1 night,Treebo,Auto,4020.0,UPI,True,True,Other,Paid in full
+H104,Employee 104,L3,2026-09-30,2026-09-16,Printer toner,Stationery Mart,Auto,1740.0,UPI,True,False,Other,Paid in full
+H104,Employee 104,L3,2026-09-30,2026-09-10,Cab to client office,Uber,Auto,780.0,UPI,True,True,Other,Paid in full
+H105,Employee 105,L2,2026-09-30,2026-09-06,Parking at mall,Parking,Auto,60.0,UPI,True,True,Metro,Paid in full
+H105,Employee 105,L2,2026-09-30,2026-09-23,Printer toner,Stationery Mart,Auto,1540.0,Cash,True,True,Metro,Paid in full
+H106,Employee 106,L1,2026-09-30,2026-08-21,Client dinner,Restaurant,Auto,7100.0,Cash,True,False,Other,Paid in full
+H106,Employee 106,L1,2026-09-30,2026-09-21,Breakfast at hotel cafe,Cafe,Auto,410.0,UPI,True,False,Other,Paid in full
+H106,Employee 106,L1,2026-09-30,2026-09-08,Lunch with team,Zomato,Auto,450.0,Cash,True,False,Other,Paid in full
+H107,Employee 107,L3,2026-09-30,2026-09-10,Volvo bus ticket,redBus,Auto,520.0,Cash,True,True,Other,Paid in full
+H107,Employee 107,L3,2026-09-30,2026-09-25,Ola to airport,Ola,Auto,610.0,Company card,True,True,Other,Paid in full
+H107,Employee 107,L3,2026-09-30,2026-08-16,Printer toner,Stationery Mart,Auto,1190.0,UPI,True,True,Other,Paid in full
+H108,Employee 108,L1,2026-09-30,2026-09-29,Flight to Bengaluru,Akasa,Auto,13830.0,Card,True,False,Other,Paid in full
+H108,Employee 108,L1,2026-09-30,2026-09-20,Stationery for branch,Stationery Mart,Auto,1000.0,UPI,True,False,Other,Paid in full
+H109,Employee 109,L1,2026-09-30,2026-09-01,Dinner on tour,Restaurant,Auto,1040.0,Cash,True,False,Metro,Paid after cut
+H109,Employee 109,L1,2026-09-30,2026-09-26,Volvo bus ticket,redBus,Auto,930.0,Card,True,True,Metro,Paid in full
+H109,Employee 109,L1,2026-09-30,2026-08-22,Phone recharge,Jio,Auto,700.0,UPI,True,False,Metro,Paid in full
+H109,Employee 109,L1,2026-09-30,2026-09-18,Phone recharge,Jio,Auto,610.0,Company card,True,True,Metro,Paid in full
+H110,Employee 110,L1,2026-09-30,2026-07-02,Auto to warehouse,Auto rickshaw,Auto,280.0,UPI,True,True,Other,Refused
+H110,Employee 110,L1,2026-09-30,2026-09-29,Stationery for branch,Stationery Mart,Auto,1260.0,Cash,True,True,Other,Paid in full
+H110,Employee 110,L1,2026-09-30,2026-09-22,Hotel stay 1 night,Treebo,Auto,7060.0,UPI,True,True,Other,Paid after cut
+H110,Employee 110,L1,2026-09-30,2026-09-09,Volvo bus ticket,redBus,Auto,960.0,Card,True,True,Other,Paid in full
+H110,Employee 110,L1,2026-09-30,2026-09-21,Flight to Bengaluru,Akasa,Auto,9710.0,UPI,True,True,Other,Paid in full
+H111,Employee 111,L1,2026-09-30,2026-09-26,Client dinner,Restaurant,Auto,2650.0,UPI,True,True,Other,Refused
+H111,Employee 111,L1,2026-09-30,2026-09-24,Hotel 1 night near plant,OYO,Auto,1560.0,Card,True,False,Other,Paid in full
+H111,Employee 111,L1,2026-09-30,2026-08-31,Broadband bill,Airtel,Auto,1010.0,Card,True,False,Other,Paid after cut
+H112,Employee 112,L1,2026-09-30,2026-09-10,Breakfast at hotel cafe,Cafe,Auto,180.0,Card,True,True,Metro,Paid in full
+H112,Employee 112,L1,2026-09-30,2026-07-16,Flight to Bengaluru,Akasa,Auto,12890.0,Card,True,True,Metro,Refused
+H112,Employee 112,L1,2026-09-30,2026-09-26,Train ticket,IRCTC,Auto,2180.0,UPI,True,True,Metro,Paid in full
+H112,Employee 112,L1,2026-09-30,2026-08-24,Auto to warehouse,Auto rickshaw,Auto,180.0,Company card,True,True,Metro,Paid in full
+H112,Employee 112,L1,2026-09-30,2026-09-12,Auto to warehouse,Auto rickshaw,Auto,120.0,Cash,True,False,Metro,Paid in full
+H113,Employee 113,L1,2026-09-30,2026-09-08,Gift hamper,Archies,Auto,720.0,Card,True,True,Metro,Refused
+H113,Employee 113,L1,2026-09-30,2026-09-20,Broadband bill,Airtel,Auto,1150.0,Cash,True,True,Metro,Paid after cut
+H113,Employee 113,L1,2026-09-30,2026-09-18,Hotel 1 night near plant,OYO,Auto,3060.0,Company card,True,True,Metro,Paid in full
+H113,Employee 113,L1,2026-09-30,2026-09-09,Ola to airport,Ola,Auto,640.0,Card,True,True,Metro,Paid in full
+H113,Employee 113,L1,2026-09-30,2026-09-06,Breakfast at hotel cafe,Cafe,Auto,160.0,UPI,True,True,Metro,Paid in full
+H114,Employee 114,L2,2026-09-30,2026-08-23,Hotel stay 1 night,Treebo,Auto,4890.0,Company card,True,True,Metro,Paid in full
+H114,Employee 114,L2,2026-09-30,2026-09-03,Volvo bus ticket,redBus,Auto,890.0,UPI,True,False,Metro,Paid in full
+H114,Employee 114,L2,2026-09-30,2026-09-27,Client dinner,Restaurant,Auto,6100.0,Card,True,True,Metro,Paid after cut
+H114,Employee 114,L2,2026-09-30,2026-09-29,Dinner on tour,Restaurant,Auto,1650.0,UPI,True,False,Metro,Paid after cut
+H114,Employee 114,L2,2026-09-30,2026-09-15,Phone recharge,Jio,Auto,570.0,UPI,True,True,Metro,Paid in full
+H115,Employee 115,L1,2026-09-30,2026-08-05,Hotel stay 1 night,Treebo,Auto,2410.0,UPI,False,True,Metro,Refused
+H115,Employee 115,L1,2026-09-30,2026-09-01,Train ticket,IRCTC,Auto,2280.0,Card,True,False,Metro,Paid in full
+H115,Employee 115,L1,2026-09-30,2026-09-10,Lunch with team,Zomato,Auto,1280.0,Card,True,False,Metro,Paid after cut
+H115,Employee 115,L1,2026-09-30,2026-09-27,Ola to airport,Ola,Auto,1170.0,Cash,True,True,Metro,Refused
+H115,Employee 115,L1,2026-09-30,2026-09-12,Broadband bill,Airtel,Auto,1200.0,UPI,True,True,Metro,Paid after cut
+H116,Employee 116,L1,2026-09-30,2026-09-17,Volvo bus ticket,redBus,Auto,1290.0,UPI,True,True,Metro,Paid in full
+H116,Employee 116,L1,2026-09-30,2026-09-16,Printer toner,Stationery Mart,Auto,990.0,UPI,True,True,Metro,Paid in full
+H117,Employee 117,L1,2026-09-30,2026-08-19,Lunch with team,Zomato,Auto,550.0,Cash,True,False,Metro,Paid in full
+H117,Employee 117,L1,2026-09-30,2026-09-16,Stationery for branch,Stationery Mart,Auto,1410.0,Card,True,True,Metro,Paid in full
+H117,Employee 117,L1,2026-09-30,2026-08-30,Gift hamper,Archies,Auto,590.0,UPI,False,True,Metro,Refused
+H118,Employee 118,L1,2026-09-30,2026-09-19,Breakfast at hotel cafe,Cafe,Auto,290.0,Card,True,False,Other,Paid in full
+H118,Employee 118,L1,2026-09-30,2026-09-05,Ola to airport,Ola,Auto,1070.0,UPI,True,True,Other,Paid after cut
+H118,Employee 118,L1,2026-09-30,2026-09-13,Flight to Bengaluru,Akasa,Auto,3830.0,Card,True,False,Other,Paid in full
+H118,Employee 118,L1,2026-09-30,2026-09-13,Parking at mall,Parking,Auto,170.0,Card,True,True,Other,Paid in full
+H118,Employee 118,L1,2026-09-30,2026-08-13,Cab to client office,Uber,Auto,660.0,Company card,True,True,Other,Paid in full
+H119,Employee 119,L1,2026-09-30,2026-09-08,Parking at mall,Parking,Auto,110.0,Company card,True,True,Metro,Paid in full
+H119,Employee 119,L1,2026-09-30,2026-09-13,Lunch with team,Zomato,Auto,1070.0,UPI,True,True,Metro,Paid after cut
+H119,Employee 119,L1,2026-09-30,2026-09-28,Phone recharge,Jio,Auto,630.0,Card,True,False,Metro,Paid in full
+H119,Employee 119,L1,2026-09-30,2026-09-14,Breakfast at hotel cafe,Cafe,Auto,240.0,Card,True,False,Metro,Paid in full
+H119,Employee 119,L1,2026-09-30,2026-08-11,Volvo bus ticket,redBus,Auto,1560.0,Cash,True,True,Metro,Paid in full
+H120,Employee 120,L1,2026-09-30,2026-09-25,Breakfast at hotel cafe,Cafe,Auto,470.0,UPI,True,False,Metro,Paid in full
+H120,Employee 120,L1,2026-09-30,2026-09-28,Client dinner,Restaurant,Auto,4010.0,Card,False,False,Metro,Refused
+H120,Employee 120,L1,2026-09-30,2026-09-24,Flight to Bengaluru,Akasa,Auto,11640.0,Card,True,True,Metro,Paid in full
